@@ -3,4 +3,4 @@
 英文，法文和繁體中文
 
 ##  MultiLanguage
-English, Franch and Traditional Chinese
+English, French and Traditional Chinese
