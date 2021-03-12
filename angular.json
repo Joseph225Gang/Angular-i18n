@@ -16,7 +16,8 @@
       "i18n": {
         "sourceLocale": "en-US",
         "locales": {
-          "fr": "src/locale/messages.fr.xlf"
+          "fr": "src/locale/messages.fr.xlf",
+          "zh": "src/locale/messages.zh.xlf"
         }
       },
       "architect": {
@@ -70,6 +71,11 @@
               "localize": [
                 "fr"
               ]
+            },
+            "zh": {
+              "localize": [
+                "zh"
+              ]
             }
           }
         },
@@ -84,6 +90,9 @@
             },
             "fr": {
               "browserTarget": "angulari18n-test:build:fr"
+            },
+            "zh": {
+              "browserTarget": "angulari18n-test:build:zh"
             }
           }
         },
